@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-br" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="style.css">
+    <title>System Crasher</title>
+  </head>
+  <body>
+
+    <header>
+
+      <img src="logo.png" id="logo">
+
+      <nav>
+          <ul>
+            <li><a href="index.html"> Pagina inicial</a></li>
+            <li><a href="filmes.html">Filmes</a></li>
+            <li><a href="agradecimento.html">Agradecimentos<a></li>
+          </ul>
+      </nav>
+
+    </header>
+
+    <p>Insira uma imagem do filme:</p>
+    <p>Descrição do filme: usem css para mudar fundo, dimensionar a imagem, enfim fazer o coração mandar.</p>
+
+
+
+  </body>
+</html>
