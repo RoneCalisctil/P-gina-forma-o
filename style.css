@@ -1,7 +1,17 @@
-#logo
-{width: 40%
+#logo {
+  height: 150px;
 }
-header ul
-{display:inline-block;
-vertical-align:top;
-margin: 0 20px 0 0}
+nav {
+  display: inline-block;
+    vertical-align: top;
+
+}
+nav ul{
+
+  display: inline-block;
+}
+
+nav li {
+  display: inline-block;
+  margin: 0 20px 0 40px;
+}
